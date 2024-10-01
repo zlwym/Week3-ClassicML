@@ -17,17 +17,17 @@ In our last tutorial, we preprocessed audio data, which will now serve as the fo
 
 ### Tasks
 1. Fork this repository into your account.
-2. Create a new branch and open the jupyter notebook(from that branch).  
-3. Use the combined dataset (created in the previous assignment) to train different machine learning models. 
+2. Use the RAVDESS dataset to train different machine learning models.
+3. Test all your trained models with the audio files you created last week.
 4. Regularly commit your changes to your repository.
 5. Create a detailed 1–2-page report (500-1000 words). This report should cover:
    - The modeling process and the results obtained.
-   - A comparison of results from the combined dataset versus the RAVDESS-only dataset. 
-   - Discussion on the observed differences in the results.
-6. Upload your report in PDF format and the Jupyter Notebook file on Canvas. Ensure that these documents comprehensively cover your exploration and application of techniques in audio data classification.
+   - A comparison of results from your new audio dataset versus the RAVDESS-only test set. 
+   - Discussion on the observed differences in the results, try to examine the causes of the differences you observed.
+6. Upload your report in PDF format and with the link of your forked Github repository.
 
 
 ## Contact
-For queries or further discussions, feel free to reach out to TA( maryiam_zahoor@sfu.ca)
+For queries or further discussions, feel free to reach out to TA.
 
 Credits: https://github.com/IliaZenkov/sklearn-audio-classification
